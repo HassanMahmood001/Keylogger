@@ -1,5 +1,12 @@
 ## Keylogger
-A modern Keylogger capable of sending reports to remote server.
+A keylogger is a type of surveillance technology used to monitor and record each keystroke typed on a specific computer's keyboard. This keylogger is made using python and the script is obfuscated so it is completely undetected by any antivirus. 
+
+The keylogger performs the following tasks:
+
+•	Listen to keystrokes in the background.
+•	Whenever a key is pressed and released, we add it to a global string variable.
+•	Every N minutes, report the content of this string variable either to a local file (to upload on a server).
+
 
 ## Requirement
 * Python 3.x \
