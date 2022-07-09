@@ -3,9 +3,9 @@ A keylogger is a type of surveillance technology used to monitor and record each
 
 The keylogger performs the following tasks:
 
-•	Listen to keystrokes in the background.
-•	Whenever a key is pressed and released, we add it to a global string variable.
-•	Every N minutes, report the content of this string variable either to a local file (to upload on a server).
+* Listen to keystrokes in the background. 
+* Whenever a key is pressed and released, we add it to a global string variable.
+* Every N minutes, report the content of this string variable either to a local file (to upload on a server).
 
 
 ## Requirement
