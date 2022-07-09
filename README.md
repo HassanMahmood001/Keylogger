@@ -8,7 +8,7 @@ The keylogger performs the following tasks:
 * Every N minutes, report the content of this string variable either to a local file (to upload on a server).
 
 # Note
-Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
+Please note, this repo is for educational purposes only. Don't use the Keylogger for illegal activities. You are the only one responsible for your actions! 
 
 ## Requirement
 * Python 3.x \
