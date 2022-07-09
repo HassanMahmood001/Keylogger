@@ -7,6 +7,8 @@ The keylogger performs the following tasks:
 * Whenever a key is pressed and released, we add it to a global string variable.
 * Every N minutes, report the content of this string variable either to a local file (to upload on a server).
 
+# Note
+Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 
 ## Requirement
 * Python 3.x \
